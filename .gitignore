@@ -1,0 +1,18 @@
+# Project exclude paths
+/target/
+/.idea/
+/logs/
+/local.settings.json
+*.iml
+
+# Local dependencies and generated artifacts
+*.jar
+*.class
+/lib/
+/libs/
+/.maven-repository/
+.env
+.env.*
+*.log
+Thumbs.db
+.DS_Store
